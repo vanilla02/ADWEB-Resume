@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  
+  header {
+    background: #738678;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #738678);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #363e47, #738678); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+  }
+  
+  header h1 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .main {
+    float: left;
+    width: 70%;
+    padding: 0 30px;
+    box-sizing: border-box;
+  }
+  
+  footer {
+    background-color: #1e2029;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  h1 {
+    font-size: 60px;
+    font-family: 'Narlesh Plasttic', sans-serif;
+                                                                                 
+}
+
+h3 {
+    font-size: 60px;
+    font-family: 'Narlesh Plasttic', sans-serif;
+                                                
+}
+
+.profile-pic {
+    max-width: 250px;
+  }
+
+.texts {
+    text-align: left;
+}
+
+.bg-sage-green {
+  background-color: #738678;
+}
+
+.work-exp {
+  border-radius: 15px;
+}

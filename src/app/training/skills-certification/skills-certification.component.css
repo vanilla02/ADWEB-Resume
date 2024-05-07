@@ -1,0 +1,46 @@
+h2, p, .h5cert {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Narlesh Plasttic', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+h4, h5, h6, p {
+    font-family: 'Elza Trial', sans-serif;
+    font-family: 'Elza Text Trial', sans-serif;
+    color: white;
+}
+
+.list-text {
+    color: black;
+}
+
+p {
+    font-size: 15px;
+}
+
+h5 {
+    color: #1E2029;
+}
+
+.cert-img {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+
+.bar {
+    margin-right: 50px;
+}
+
+.bg-dark-blue {
+  background-color: #1E2029;
+  color: white;
+}

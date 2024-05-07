@@ -1,0 +1,16 @@
+h2 {
+    font-family: 'Narlesh Plasttic', sans-serif;
+    font-size: 50px;
+}
+
+
+h4, h6, p {
+    font-family: 'Elza Trial', sans-serif;
+    font-family: 'Elza Text Trial', sans-serif;
+}
+
+.train {
+    margin-left: 15px;
+    margin-top: 12px;
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+h2 {
+    margin-bottom: 30px;
+    font-family: 'Narlesh Plasttic', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+h4, h6, p {
+    font-family: 'Elza Trial', sans-serif;
+    font-family: 'Elza Text Trial', sans-serif;
+    color: white;
+}
+
+.worke {
+    margin-left: 20px;
+    font-size: 20px;
+}
